@@ -1,0 +1,54 @@
+/* 
+*{box-sizing: border-box;}
+
+.Fullpage
+{
+    display: flex;
+    height: 600px;
+    width: 100%;
+}
+
+.formclass
+{
+    width: 40%;
+    text-align: center;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.tableclass
+{
+    background-color: blueviolet;
+    width: 60%;
+    text-align: center;
+    padding: 20px;
+   
+    
+}
+
+.tablehead
+{
+    display: flex;
+    margin-left: 30px;
+    
+}
+
+.box
+{
+    border: 1px solid black;
+    width: 150px;
+}
+
+.timebox
+{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.SubBtn
+{
+    border: none;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+} */
